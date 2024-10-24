@@ -1,0 +1,1 @@
+This project was created using knowledge learned from "Hands-On Machine Learning with Sci-Kit Learn and TensorFlow", and uses a dataset from Kaggle to train a model, which can then predict laptop prices based on certain attributes like brand, year, monitor size, and more.
